@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # They must provide only one file
 if [ "$#" -ne 1 ]; then
