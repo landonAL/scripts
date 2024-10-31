@@ -8,7 +8,7 @@ fi
 
 # They did not provide a valid directory
 if [ ! -d $1 ]; then
-    echo "$1 is not a directory"
+    echo "'$1' is not a directory"
 fi
 
 # Collect all directories
