@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # They must provide at least two files
 if [ "$#" -lt 2 ]; then
