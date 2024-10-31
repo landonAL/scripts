@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # They must provide at least one file
 if [ "$#" -eq 0 ]; then
